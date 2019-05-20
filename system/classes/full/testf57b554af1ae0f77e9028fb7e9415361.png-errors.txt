@@ -1,0 +1,409 @@
+2016-08-18 18:13:33: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:13:58: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:14:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:17:14: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:19:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:22:43: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:23:50: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:25:27: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:26:15: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:26:59: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:27:41: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:28:55: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\frame_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_0\mask_21_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_1\mask_21_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_2\mask_21_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_3\mask_21_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_4\mask_21_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_5\mask_21_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_6\mask_21_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\impkk\system\classes\full\cache\mask_7\mask_21_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\impkk\system\classes\full\qrmask.php</b> on line <b>155</b><br />
+2016-08-18 18:30:08: empty string!!!2016-08-18 18:30:24: empty string!!!2016-08-18 18:30:54: empty string!!!2016-08-18 18:32:15: empty string!!!2016-08-25 11:36:54: empty string!!!2016-08-26 14:23:21: empty string!!!2017-03-01 13:35:11: empty string!!!2017-03-01 13:42:29: empty string!!!2017-03-01 13:43:09: empty string!!!2017-03-01 13:48:19: empty string!!!2017-03-01 18:43:26: empty string!!!2017-03-02 09:57:09: empty string!!!2017-03-02 09:59:02: empty string!!!2017-03-02 11:01:58: empty string!!!2017-03-02 11:02:26: empty string!!!2017-03-02 11:05:26: empty string!!!2017-03-02 11:09:21: empty string!!!

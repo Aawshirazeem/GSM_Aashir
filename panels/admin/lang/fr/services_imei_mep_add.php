@@ -1,0 +1,12 @@
+<?php
+$data["lang"]["doc_title"] = "Ajouter un nouvel eurodéputé";
+$data["lang"]["lbl_add_new_mep"] = "Ajouter un nouvel Mep";
+$data["lang"]["lbl_add_mep"] = "Ajouter MEP";
+$data["lang"]["lbl_back_to_meps"] = "Sauvegardez les députés";
+$data["lang"]["lbl_imei_mep_details"] = "IMEI MEP détails";
+$data["lang"]["lbl_mep"] = "MEP";
+$data["lang"]["reply_service_imei_mep_missing"] = "S'il vous plaît entrer le nom de Mep!";
+$data["lang"]["reply_service_imei_mep_duplicate"] = "Dupliquer MEP, S'il vous plaît essayer de nouveau!";
+$data["lang"]["reply_success"] = "Mep ajouté succeessfully!";
+
+?>

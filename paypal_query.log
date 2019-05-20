@@ -1,0 +1,3226 @@
+select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='90T06353RC565720C'
+							where id=123select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='5YV93471DN180664A' ,
+								status=1
+							where id=124^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7PU274134X9146134' ,
+								status=1
+							where id=125^^update nxt_user_master
+									set credits=credits + 1000
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								1000,
+
+								0,
+								0,
+								0,
+								1000,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0A748598PD470081A' ,
+								status=1
+							where id=127^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='1NT153427V3140255' ,
+								status=1
+							where id=128^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='38774410C7581514A'
+							where id=129select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='6BF9006965644133A' ,
+								status=1
+							where id=130^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='5VV03297DH894412P'
+							where id=131select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='0A619911H7532602X'
+							where id=133select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='2TL67515AS989005U' ,
+								status=1
+							where id=135^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4V2805065H185612J' ,
+								status=1
+							where id=136^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='27C9784519176154Y' ,
+								status=1
+							where id=138^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7X552953J1462845A' ,
+								status=1
+							where id=140^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='7RM83216YA531751Y'
+							where id=141select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='6SS22477KB5543055' ,
+								status=1
+							where id=142^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4A269438P7485851A' ,
+								status=1
+							where id=143^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7MB675329X042412E' ,
+								status=1
+							where id=144^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4UN435633C414500K' ,
+								status=1
+							where id=145^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='1CP625911J544372A' ,
+								status=1
+							where id=146^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='99N87775S8378060U' ,
+								status=1
+							where id=147^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='3U71526707235462K'
+							where id=148select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7CE002548L128614H' ,
+								status=1
+							where id=150^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='13Y467289V851843C' ,
+								status=1
+							where id=151^^update nxt_user_master
+									set credits=credits + 100
+								where id=81##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0WY533491G4015705' ,
+								status=1
+							where id=152^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7A206894WW074564G' ,
+								status=1
+							where id=154^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3F678883AV303744L' ,
+								status=1
+							where id=157^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='5SE839098P156301F' ,
+								status=1
+							where id=159^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='48G13826KL930661W'
+							where id=162select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='73V09058VN154704Y'
+							where id=162select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4WW2873286427682T'
+							where id=170select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='98A106463M089644W' ,
+								status=1
+							where id=171^^update nxt_user_master
+									set credits=credits + 120
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='10U711268X2113618'
+							where id=172select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='09H45119H5734104H' ,
+								status=1
+							where id=174^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='67V55249N5410034M' ,
+								status=1
+							where id=175^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='52J52536UA731732G'
+							where id=176select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='81U47240HM206525R' ,
+								status=1
+							where id=177^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7X026971TF932152C' ,
+								status=1
+							where id=178^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7A3327470X5660031' ,
+								status=1
+							where id=179^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='6CA52893N6123070D' ,
+								status=1
+							where id=180^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4XT86741501597057' ,
+								status=1
+							where id=183^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='0BX13000NP715193Y'
+							where id=184select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0UX10566FC336601P' ,
+								status=1
+							where id=186^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9D429001NX131321C' ,
+								status=1
+							where id=187^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='89S31869SR0707847' ,
+								status=1
+							where id=188^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='5S535910NW312571C' ,
+								status=1
+							where id=189^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);update nxt_invoice_request
+							set
+								txn_id='7BK13628CG6008242' ,
+								status=1
+							where id=190^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4W596963R1884341T' ,
+								status=1
+							where id=192^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9XJ77888HG1022916' ,
+								status=1
+							where id=194^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='42X80566A6872882L' ,
+								status=1
+							where id=195^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='56X59920KL523440C'
+							where id=196select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='2EM908724L3057947' ,
+								status=1
+							where id=197^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='11A55685D98093803' ,
+								status=1
+							where id=198^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='85E03759DC574662P' ,
+								status=1
+							where id=200^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0U9569529N4681427' ,
+								status=1
+							where id=201^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0FP59587AH004315A' ,
+								status=1
+							where id=202^^update nxt_user_master
+									set credits=credits + 500
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								500,
+
+								0,
+								0,
+								0,
+								500,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4GT33061MT843620Y' ,
+								status=1
+							where id=203^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='96L40004173993728' ,
+								status=1
+							where id=204^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4CT42989EL760262M' ,
+								status=1
+							where id=210^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='12872159GF947521U'
+							where id=211select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='39J82509YA746991P' ,
+								status=1
+							where id=212^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4DA51948171832539'
+							where id=213select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='1A3743935J3717120'
+							where id=215select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='7KM34450E71217842'
+							where id=216select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='02861656KR264471M' ,
+								status=1
+							where id=217^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='7DX89002U5821300R'
+							where id=218select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='27S371764W4482917' ,
+								status=1
+							where id=219^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='0GN483586K0596249'
+							where id=220select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='2X551051D9613805W'
+							where id=222select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='14X543606U957472P' ,
+								status=1
+							where id=223^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='70L362838W923901G'
+							where id=227select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='7DV73459BN362964C'
+							where id=228select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='6V033754D79353111'
+							where id=233select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='1M279705T8642184E'
+							where id=235select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='9V144003LL719762U'
+							where id=236select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='5TP65097V16501412'
+							where id=240select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='9FP958339S086873F'
+							where id=242select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='70D73873ES127740G'
+							where id=243select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='232909110Y278781Y'
+							where id=246select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='6LK62416DH499122Y'
+							where id=247select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='5M510270DU0769938'
+							where id=248select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='9PY42573L1479941U'
+							where id=251select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8EK47485FM240123H' ,
+								status=1
+							where id=254^^update nxt_user_master
+									set credits=credits + 400
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								400,
+
+								0,
+								0,
+								0,
+								400,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8BX03100V2781262V' ,
+								status=1
+							where id=256^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='1MY48698293228847'
+							where id=258select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='69X24945P8669005A'
+							where id=261select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='6YG902748M845443Y'
+							where id=262select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3T598790608879246' ,
+								status=1
+							where id=263^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4X768766VV380635U'
+							where id=264select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8N8354582L0240237' ,
+								status=1
+							where id=265^^update nxt_user_master
+									set credits=credits + 30
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								30,
+
+								0,
+								0,
+								0,
+								30,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='68F86503X4676453F'
+							where id=268select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8CG139586T7818902' ,
+								status=1
+							where id=269^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='9CK32017E72223544'
+							where id=270select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4P6030608C2274515'
+							where id=271select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9KT001592K690774V' ,
+								status=1
+							where id=272^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='96F15692AY040533G'
+							where id=273select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='768055981P0904312'
+							where id=274select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='2F319557YK2434506'
+							where id=276select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='77N30780F4755213Y' ,
+								status=1
+							where id=277^^update nxt_user_master
+									set credits=credits + 100
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='5PU9676124119783V'
+							where id=279select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='18E13914BE767900X' ,
+								status=1
+							where id=280^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='5K7203030H3231401'
+							where id=283select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8X1351763K522920M' ,
+								status=1
+							where id=285^^update nxt_user_master
+									set credits=credits + 25
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								25,
+
+								0,
+								0,
+								0,
+								25,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='5GN1194812310340T' ,
+								status=1
+							where id=219^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3XJ354004K266262M' ,
+								status=1
+							where id=290^^update nxt_user_master
+									set credits=credits + 20
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								20,
+
+								0,
+								0,
+								0,
+								20,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='35056668JR466580B' ,
+								status=1
+							where id=292^^update nxt_user_master
+									set credits=credits + 100
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4B1935840K1735514'
+							where id=297select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='47B450646A625890G' ,
+								status=1
+							where id=302^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='4B1935840K1735514'
+							where id=297select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='47B450646A625890G' ,
+								status=1
+							where id=302^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1**update nxt_invoice_request
+							set
+								txn_id='3J984053DA111714B'
+							where id=310select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='99R944512T470043A' ,
+								status=1
+							where id=311^^update nxt_user_master
+									set credits=credits + 500
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								0,
+								0,
+								now(),
+								500,
+
+								0,
+								0,
+								0,
+								500,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='1YA50341VK8401626' ,
+								status=1
+							where id=356^^update nxt_user_master
+									set credits=credits + 10
+								where id=10##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								10,
+								0,
+								now(),
+								10,
+
+								0,
+								0,
+								0,
+								10,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='77X55900WY1256632' ,
+								status=1
+							where id=357^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								31,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7KY973669P655103F' ,
+								status=1
+							where id=393^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='02M70412785232504' ,
+								status=1
+							where id=394^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9RJ062752M9190340' ,
+								status=1
+							where id=396^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0519482693715745J' ,
+								status=1
+							where id=397^^update nxt_user_master
+									set credits=credits + 55
+								where id=124##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								124,
+								0,
+								now(),
+								55,
+
+								0,
+								0,
+								0,
+								55,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='57A40807B47582419' ,
+								status=1
+							where id=398^^update nxt_user_master
+									set credits=credits + 5
+								where id=124##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								124,
+								0,
+								now(),
+								5,
+
+								0,
+								0,
+								0,
+								5,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9T903719NT062914B' ,
+								status=1
+							where id=400^^update nxt_user_master
+									set credits=credits + 110
+								where id=34##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								34,
+								0,
+								now(),
+								110,
+
+								0,
+								0,
+								0,
+								110,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8BX53688G0713982W' ,
+								status=1
+							where id=396^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);update nxt_invoice_request
+							set
+								txn_id='0XY833630A7440018' ,
+								status=1
+							where id=394^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4SV778926T840060G' ,
+								status=1
+							where id=393^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3W7813746A157303L' ,
+								status=1
+							where id=402^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								31,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0XY833630A7440018' ,
+								status=1
+							where id=394^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='08P02158HH915223X' ,
+								status=1
+							where id=394^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8BX53688G0713982W' ,
+								status=1
+							where id=396^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);update nxt_invoice_request
+							set
+								txn_id='9UP15598ET4540407' ,
+								status=1
+							where id=396^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4SV778926T840060G' ,
+								status=1
+							where id=393^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='66Y029168X541280T' ,
+								status=1
+							where id=393^^update nxt_user_master
+									set credits=credits + 120
+								where id=135##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								135,
+								0,
+								now(),
+								120,
+
+								0,
+								0,
+								0,
+								120,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='51K216919D628962H' ,
+								status=1
+							where id=408^^update nxt_user_master
+									set credits=credits + 50
+								where id=34##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								34,
+								0,
+								now(),
+								50,
+
+								0,
+								0,
+								0,
+								50,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='90Y78019WV144192U' ,
+								status=1
+							where id=415^^update nxt_user_master
+									set credits=credits + 60
+								where id=104##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								104,
+								0,
+								now(),
+								60,
+
+								0,
+								0,
+								0,
+								60,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='2ML37484JV7544214' ,
+								status=1
+							where id=418^^update nxt_user_master
+									set credits=credits + 100
+								where id=67##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								67,
+								0,
+								now(),
+								100,
+
+								0,
+								0,
+								0,
+								100,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='07D8813621458445E' ,
+								status=1
+							where id=420^^update nxt_user_master
+									set credits=credits + 5
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								5,
+
+								0,
+								0,
+								0,
+								5,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='86X87921AF750914N' ,
+								status=1
+							where id=422^^update nxt_user_master
+									set credits=credits + 3
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								3,
+
+								0,
+								0,
+								0,
+								3,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0625190402415983N' ,
+								status=1
+							where id=424^^update nxt_user_master
+									set credits=credits + 2
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7CS431408L219051L' ,
+								status=1
+							where id=425^^update nxt_user_master
+									set credits=credits + 2
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='35182101D7446742H' ,
+								status=1
+							where id=426^^update nxt_user_master
+									set credits=credits + 2
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8JN48694TK4023926' ,
+								status=1
+							where id=427^^update nxt_user_master
+									set credits=credits + 2
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3AW629111W6426307' ,
+								status=1
+							where id=428^^update nxt_user_master
+									set credits=credits + 3
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								3,
+
+								0,
+								0,
+								0,
+								3,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9KS25773BB601164F' ,
+								status=1
+							where id=429^^update nxt_user_master
+									set credits=credits + 4
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								4,
+
+								0,
+								0,
+								0,
+								4,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='027258398Y0811443' ,
+								status=1
+							where id=430^^update nxt_user_master
+									set credits=credits + 9
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								9,
+
+								0,
+								0,
+								0,
+								9,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='4NX339122B5579938' ,
+								status=1
+							where id=430^^update nxt_user_master
+									set credits=credits + 9
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								9,
+
+								0,
+								0,
+								0,
+								9,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3D838763VL176904G' ,
+								status=1
+							where id=434^^update nxt_user_master
+									set credits=credits + 6
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								6,
+
+								0,
+								0,
+								0,
+								6,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='1BL01152TG558435S' ,
+								status=2
+							where id=434^^update nxt_user_master
+									set credits=credits - 6
+								where id=134##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       134,
+       now(),
+       6,
+       
+       0,
+       0,
+       0,
+       -6,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='3MD65070X6976670D' ,
+								status=1
+							where id=435^^update nxt_user_master
+									set credits=credits + 5
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								5,
+
+								0,
+								0,
+								0,
+								5,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='19C86654G67302154' ,
+								status=2
+							where id=435^^update nxt_user_master
+									set credits=credits - 5
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								5,
+
+								0,
+								0,
+								0,
+								-5,
+								0,
+								0,
+															
+								'Credits Revoked by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9AV97813U66633611' ,
+								status=1
+							where id=436^^update nxt_user_master
+									set credits=credits + 3
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								3,
+
+								0,
+								0,
+								0,
+								3,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='24954590L2141445F' ,
+								status=2
+							where id=436^^update nxt_user_master
+									set credits=credits - 3
+								where id=134##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       134,
+       now(),
+       3,
+       
+       0,
+       0,
+       0,
+       -3,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='72L43973F3414100H' ,
+								status=1
+							where id=437^^update nxt_user_master
+									set credits=credits + 2
+								where id=134##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								134,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7P78106892067542N' ,
+								status=2
+							where id=437^^update nxt_user_master
+									set credits=credits - 2
+								where id=134##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       134,
+       now(),
+       2,
+       
+       0,
+       0,
+       0,
+       -2,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8ET373605D0156422' ,
+								status=1
+							where id=438^^update nxt_user_master
+									set credits=credits + 5
+								where id=12##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								12,
+								0,
+								now(),
+								5,
+
+								0,
+								0,
+								0,
+								5,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='19K06205LG5026151' ,
+								status=2
+							where id=438^^update nxt_user_master
+									set credits=credits - 5
+								where id=12##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       12,
+       now(),
+       5,
+       
+       0,
+       0,
+       0,
+       -5,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7T7695247Y661890R' ,
+								status=3
+							where id=445^^update nxt_user_master
+									set credits=credits + 200
+								where id=31##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								31,
+								0,
+								now(),
+								200,
+
+								0,
+								0,
+								0,
+								200,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='9FN980019L923014J' ,
+								status=3
+							where id=446^^update nxt_user_master
+									set credits=credits + 40
+								where id=47##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								47,
+								0,
+								now(),
+								40,
+
+								0,
+								0,
+								0,
+								40,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7YM17442G32236647' ,
+								status=3
+							where id=457^^update nxt_user_master
+									set credits=credits + 10
+								where id=91##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								91,
+								0,
+								now(),
+								10,
+
+								0,
+								0,
+								0,
+								10,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='8SJ94339HJ9106619' ,
+								status=3
+							where id=459^^update nxt_user_master
+									set credits=credits + 2
+								where id=96##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								96,
+								0,
+								now(),
+								2,
+
+								0,
+								0,
+								0,
+								2,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='1M139972RP649480S' ,
+								status=3
+							where id=460^^update nxt_user_master
+									set credits=credits + 3
+								where id=96##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								96,
+								0,
+								now(),
+								3,
+
+								0,
+								0,
+								0,
+								3,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);##insert into nxt_invoice_master (txn_id,user_id, amount, credits,gateway_id,currency_id, date_time,date_time_paid,paid_status,status) values('1M139972RP649480S',96,3,3,1,2,now(),now(),1,0)##insert into nxt_invoice_log (inv_id,amount, credits, gateway_id,date_time,receiver,last_updated_by,remarks) values(711, 3, 3, "Credits Added by [Auto Pay]", now(),96,1,1)select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='12D88173WB552435N' ,
+								status=2
+							where id=461^^update nxt_user_master
+									set credits=credits + 4
+								where id=96##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								96,
+								0,
+								now(),
+								4,
+
+								0,
+								0,
+								0,
+								4,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);##insert into nxt_invoice_master (txn_id,user_id, amount, credits,gateway_id,currency_id, date_time,date_time_paid,paid_status,status) values('12D88173WB552435N',96,4,4,1,2,now(),now(),1,0)##insert into nxt_invoice_log (inv_id,amount, credits, gateway_id,date_time,receiver,last_updated_by,remarks) values(712, 4, 4, "Credits Added by [Auto Pay]", now(),96,1,1)select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='0WG77958K2954141D' ,
+								status=3
+							where id=461^^update nxt_user_master
+									set credits=credits - 4
+								where id=96##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       96,
+       now(),
+       4,
+       
+       0,
+       0,
+       0,
+       -4,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );##insert into nxt_invoice_master (txn_id,user_id, amount, credits,gateway_id,currency_id, date_time,date_time_paid,paid_status,status) values('0WG77958K2954141D',96,4,4,1,2,now(),now(),3,0)##insert into nxt_invoice_log (inv_id,amount, credits, gateway_id,date_time,receiver,last_updated_by,remarks) values(713, 4, 4, "Credits Revoked by [Auto Pay]", now(),96,1,1)select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7U6451664V459392P' ,
+								status=1
+							where id=462^^update nxt_user_master
+									set credits=credits + 50
+								where id=47##insert into nxt_credit_transection_master
+							(user_id, user_id2, date_time, credits,
+							credits_acc, credits_acc_process, credits_acc_used,
+							credits_after, credits_after_process, credits_after_used,
+							info, trans_type,ip)
+							values(
+								47,
+								0,
+								now(),
+								50,
+
+								0,
+								0,
+								0,
+								50,
+								0,
+								0,
+															
+								'Credits Added by [Auto Pay]',
+								6,
+								'173.0.81.1'
+							);##insert into nxt_invoice_master (txn_id,user_id, amount, credits,gateway_id,currency_id, date_time,date_time_paid,paid_status,status) values('7U6451664V459392P',47,50,50,1,2,now(),now(),1,0)##insert into nxt_invoice_log (inv_id,amount, credits, gateway_id,date_time,receiver,last_updated_by,remarks) values(714, 50, 50, "Credits Added by [Auto Pay]", now(),47,1,1)select * from nxt_gateway_master where id =1update nxt_invoice_request
+							set
+								txn_id='7U600847CH627714P' ,
+								status=3
+							where id=415^^update nxt_user_master
+									set credits=credits - 60
+								where id=104##insert into nxt_credit_transection_master
+      (admin_id, user_id2, date_time, credits,
+      credits_acc_2, credits_acc_process_2, credits_acc_used_2,
+      credits_after_2, credits_after_process_2, credits_after_used_2,
+      info, trans_type, ip)
+      values(
+       0,
+       104,
+       now(),
+       60,
+       
+       0,
+       0,
+       0,
+       -60,
+       0,
+       0,
+       
+       
+       'Credits Revoked by [Auto Pay]',
+       6,
+       '173.0.81.1'
+      );##insert into nxt_invoice_master (txn_id,user_id, amount, credits,gateway_id,currency_id, date_time,date_time_paid,paid_status,status) values('7U600847CH627714P',104,60,60,1,1,now(),now(),3,0)##insert into nxt_invoice_log (inv_id,amount, credits, gateway_id,date_time,receiver,last_updated_by,remarks) values(718, 60, 60, "Credits Revoked by [Auto Pay]", now(),104,1,1)select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1select * from nxt_gateway_master where id =1

@@ -1,0 +1,3 @@
+<?php
+	$jsCkEditor = '1';
+?>

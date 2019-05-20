@@ -1,0 +1,13 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Force www:
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+Options +SymLinksIfOwnerMatch
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^$ ../index.php?view=admin&page=index [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).html$ ../index.php?view=admin&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).frm$ ../index.php?showInFrm=1&view=admin&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).do$ ../panels/admin/$1.php

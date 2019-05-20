@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On
+
+
+RewriteRule ^$ ../index.php?view=chat&page=index [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).html$ ../index.php?view=chat&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).do$ ../panels/chat/$1.php
+

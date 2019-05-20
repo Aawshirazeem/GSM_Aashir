@@ -1,0 +1,11 @@
+<?php
+$data["lang"]["doc_title"] = "Ajouter une nouvelle marque";
+$data["lang"]["lbl_add_brand"] = "Ajouter Brand";
+$data["lang"]["lbl_back_to_brands"] = "Retour aux marques";
+$data["lang"]["lbl_brand_name"] = "Nom de marque";
+$data["lang"]["lbl_imei_brand_details"] = "IMEI Marque Détails";
+$data["lang"]["reply_service_imei_brand_missing"] = "S'il vous plaît entrez le nom de la marque!";
+$data["lang"]["reply_service_imei_brand_duplicate"] = "Dupliquer marques, S'il vous plaît essayer de nouveau!";
+$data["lang"]["reply_success"] = "Marque ajouté avec succès!";
+
+?>

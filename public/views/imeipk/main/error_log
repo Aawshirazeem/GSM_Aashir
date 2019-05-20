@@ -1,0 +1,13 @@
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_SITE_TITLE - assumed 'CONFIG_SITE_TITLE' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 4
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_PATH_THEME - assumed 'CONFIG_PATH_THEME' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 19
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_SITE_TITLE - assumed 'CONFIG_SITE_TITLE' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 43
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_PATH_THEME - assumed 'CONFIG_PATH_THEME' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 51
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_SITE_TITLE - assumed 'CONFIG_SITE_TITLE' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 66
+[11-Aug-2015 14:07:19 America/Denver] PHP Notice:  Use of undefined constant CONFIG_PATH_SITE - assumed 'CONFIG_PATH_SITE' in /home3/nckcode1/public_html/sc/public/views/imeipk/main/index.php on line 81
+[25-Nov-2015 01:13:46 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:15:32 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:41:29 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:41:30 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:41:30 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:48:37 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4
+[25-Nov-2015 01:53:53 America/Denver] PHP Fatal error:  Call to a member function prints() on a non-object in /home/imeipk/public_html/public/views/imeipk/main/register.php on line 4

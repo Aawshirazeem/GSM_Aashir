@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On
+
+
+RewriteRule ^$ ../index.php?view=supplier&page=index [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).html$ ../index.php?view=supplier&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).do$ ../panels/supplier/$1.php
+

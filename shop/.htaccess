@@ -1,0 +1,10 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+Options -Indexes
+RewriteEngine On
+
+RewriteRule ^$ ../index.php?view=shop&page=index [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).html$ ../index.php?view=shop&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).frm$ ../index.php?showInFrm=1&view=shop&page=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).do$ ../panels/shop/$1.php

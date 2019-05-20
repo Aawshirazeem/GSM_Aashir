@@ -1,0 +1,3 @@
+<?php
+	$jsInfinityScroll = '1';
+?>

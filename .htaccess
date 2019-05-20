@@ -1,0 +1,26 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+Options -Indexes
+RewriteEngine On
+
+
+ErrorDocument 404 /404.shtml
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+)$ index.php?lang=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+)/([A-Z,a-z,0-9,_,(,),+,-]+).html$ index.php?page=$2&lang=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+)/([A-Z,a-z,0-9,_,(,),+,-]+).htm$ index.php?noframe=1&page=$2&lang=$1 [QSA]
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+)/([A-Z,a-z,0-9,_,(,),+,-]+).do$ ./public/commands/$2.php [QSA]
+
+RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).html$ index.php?page=$1 [QSA]
+#RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).htm$ index.php?noframe=1&page=$1 [QSA]
+#RewriteRule ^([A-Z,a-z,0-9,_,(,),+,-]+).do$ ./public/commands/$1.php [QSA]
+
+
+RewriteRule ^cron/([A-Z,a-z,0-9,_,(,),+,-]+).do$ /system/cron/$1.php
+RewriteRule ^cmd/([A-Z,a-z,0-9,_,(,),+,-]+).do$ /system/cmd/$1.php
+RewriteRule ^extern/([A-Z,a-z,0-9,_,(,),+,-]+).do$ /system/extern/$1.php
+
+
+<IfModule mod_php5.c>
+    php_value max_input_vars 10000
+</IfModule>
